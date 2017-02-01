@@ -1,2 +1,1 @@
-# matlab_practice
-University project
+This is a university project
